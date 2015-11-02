@@ -13,7 +13,7 @@ import com.badlogic.gdx.maps.tiled.renderers.OrthogonalTiledMapRenderer;
 //^^shows how to render a map, very basic but good example
 //https://gist.github.com/spilth/5457184
 //^^shows a few lines of code for getting the map height and width the easiest way
-
+//
 public class CCSMap extends ApplicationAdapter {
 	TiledMap tiledMap;
 	OrthographicCamera camera;
