@@ -14,7 +14,7 @@ import com.badlogic.gdx.maps.tiled.renderers.OrthogonalTiledMapRenderer;
 //https://gist.github.com/spilth/5457184
 //^^shows a few lines of code for getting the map height and width the easiest way
 
-public class CCStouchpad extends ApplicationAdapter {
+public class CCSMap extends ApplicationAdapter {
 	TiledMap tiledMap;
 	OrthographicCamera camera;
 	OrthogonalTiledMapRenderer tiledMapRenderer;
